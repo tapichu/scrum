@@ -54,7 +54,7 @@
 # Objetivo de la presentación #
 
 * Scrum es muy simple
-* Scrum es muy dificil
+* Scrum es muy difícil
 * Scrum funciona (en el contexto adecuado)
 
 !SLIDE bullets incremental transition=scrollUp
