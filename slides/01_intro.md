@@ -1,11 +1,14 @@
 !SLIDE subsection
+# Scrum #
+
+!SLIDE subsection transition=scrollUp
 # ¿Por qué Scrum? #
 
 !SLIDE bullets incremental small transition=scrollUp
 # ¿Proyectos exitosos? #
 
 * El 80% de los proyectos no son exitosos (PMI)
-* $60,000 millones de dolares gastados en proyectos fallidos (IEEE)
+* $60,000 millones de dolares anuales en proyectos fallidos (IEEE)
 * El 80% del costo de desarrollo involucra identificar y corregir errores (NIST)
 
 !SLIDE bullets incremental small transition=scrollUp
@@ -39,6 +42,7 @@
 * Lo primero es tener una visión
 * Todos deben conocer la visión
 * ¿por qué?
+* ¿para qué?
 
 !SLIDE bullets incremental transition=scrollUp
 # Objetivo de Scrum #
